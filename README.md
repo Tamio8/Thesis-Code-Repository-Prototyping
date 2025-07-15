@@ -12,7 +12,9 @@ The code includes data filtering and simulated interface logic for three main pr
 - **Similarity-Based Patient Explorer**
     
 
-Each folder contains code related to a specific prototype, including mock interfaces and data processing. The `data-processing/` folder contains supporting scripts for filtering ICU cohorts and exploring the structure of the MIMIC data.
+Each folder contains code related to a specific prototype, including mock interfaces and data processing. The `data-access-big-query/` folder contains supporting scripts for filtering ICU cohorts and exploring the structure of the MIMIC data.  The `prototype-code/` folder contains the code for the prototype visualisation.
+
+For further details on the development, design rationale, or intended use of the prototypes, please refer to the full thesis.
 
 ### Data Source
 
