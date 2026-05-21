@@ -1,7 +1,8 @@
 # Thesis-Code-Repository-Prototyping
 
-This repository contains the code used for generating clinical decision support prototypes as part of the PhD project *"Bridging Human Needs and Machine Potential in Intensive Care:
-Conceptual Considerations for a Care-Full Design at the Intersection of Context, Code and Complexity"* by Tamara Orth (Queensland University of Technology, 2025).
+This repository contains the code used for generating clinical decision support prototypes as part of the PhD project *"A Bridge Between Care and Code: An Inquiry into Human-Centred AI in Intensive Care Decision-Making"* by Tamara Orth (Queensland University of Technology, 2026).
+
+📄 [Have a look at the thesis document for more detail, context and reasoning](https://eprints.qut.edu.au/264873/)
 
 The code includes data filtering and simulated interface logic for three main prototypes:
 
@@ -47,4 +48,4 @@ Key libraries:
 
 ### Citation
 
-If you use or refer to this codebase, please cite the thesis: NEEDS EDIT
+If you use or refer to this codebase or parts of this work, please cite the thesis: [https://eprints.qut.edu.au/264873/](https://eprints.qut.edu.au/264873/)
