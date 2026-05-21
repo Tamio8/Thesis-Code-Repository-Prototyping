@@ -2,7 +2,9 @@
 
 This repository contains the code used for generating clinical decision support prototypes as part of the PhD project *"A Bridge Between Care and Code: An Inquiry into Human-Centred AI in Intensive Care Decision-Making"* by Tamara Orth (Queensland University of Technology, 2026).
 
-📄 [Have a look at the thesis document for more detail, context and reasoning](https://eprints.qut.edu.au/264873/)
+The thesis investigates how Artificial Intelligence and Machine Learning (AIML)-based clinical decision support systems can be designed to align with intensive care clinicians' values and needs. It takes a value-sensitive and tension-aware approach, showing how tensions in ICU decision-making signal complexity, potential trade-offs and limitations of AIML support. Insights gained from interviews and prototyping demonstrate that AIML based tools are most supportive when contextually anchored, integrated into existing workflows, and positioned as a tool that complements existing processes and devices. Within data science, this research offers a relational, context-sensitive and tension-aware approach of thinking for problem formulation.
+
+📄 [For further details on the development, design rationale, or intended use of the prototypes, please refer to the full thesis.](https://eprints.qut.edu.au/264873/)
 
 The code includes data filtering and simulated interface logic for three main prototypes:
 
@@ -14,8 +16,6 @@ The code includes data filtering and simulated interface logic for three main pr
     
 
 Each folder contains code related to a specific prototype, including mock interfaces and data processing. The `data-access-big-query/` folder contains supporting scripts for filtering ICU cohorts and exploring the structure of the MIMIC data.  The `prototype-code/` folder contains the code for the prototype visualisation.
-
-For further details on the development, design rationale, or intended use of the prototypes, please refer to the full thesis.
 
 ### Data Source
 
@@ -44,7 +44,7 @@ Key libraries:
     
 - Filtering choices (e.g., adult, septic, first ICU stay, non-immunocompromised) were made to **reduce data volume and simplify processing**, not for clinical significance.
     
-- Code includes simulated interface logic and illustrative data to support clinician feedback collection.
+- Code includes simulated interface logic and illustrative data to generate a *good enough* prototype for a deeper discussion with clinical stakeholders
 
 ### Citation
 
